@@ -1,2 +1,8 @@
+
 # newskylabs-gui-patch-editor
-Patch Editor
+
+A Patch Editor for visual programming.
+
+Work in Progress
+
+
